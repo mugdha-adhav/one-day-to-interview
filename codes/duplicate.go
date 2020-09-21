@@ -1,4 +1,6 @@
-package interview
+package main
+
+import "fmt"
 
 func containsDuplicate(nums []int) bool {
 	cache := make(map[int]int)
@@ -9,4 +11,8 @@ func containsDuplicate(nums []int) bool {
 		cache[n] = i
 	}
 	return true
+}
+
+func main() {
+	fmt.Println(containsDuplicate([]int{7, 2, 5, 3, 6, 1, 4}))
 }
