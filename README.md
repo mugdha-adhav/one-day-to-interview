@@ -6,6 +6,7 @@ Resources for going through before an interview process.
 * [coding](./technical/coding/quick.md)
 * [golang](./technical/golang/quick.md)
 * [system design](./technical/system_design/quick.md)
+* [generic_cs](./technical/generic/quick.md)
 * [data structures & algos](./technical/DSA/quick.md)
 * [docker](https://github.com/collabnix/dockerlabs/blob/master/docker/docker-interview-questions.md)
 * [rpc](https://grpc.io/docs/what-is-grpc/introduction)
