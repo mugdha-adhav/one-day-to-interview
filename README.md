@@ -4,7 +4,7 @@ Resources for going through before an interview process.
 
 * [interviewing tips](https://yangshun.github.io/tech-interview-handbook/cheatsheet)
 * [coding](./technical/coding/quick.md)
-* [golang](./technical/golang/quick.md)
+* [golang](./technical/golang/references.md)
 * [system design](./technical/system_design/quick.md)
 * [generic_cs](./technical/generic/quick.md)
 * [data structures & algos](./technical/DSA/quick.md)
