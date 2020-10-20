@@ -11,19 +11,19 @@
 #### Syntax
 * https://blog.golang.org/declaration-syntax
 
-### Defer
+#### Defer
 * https://blog.golang.org/defer-panic-and-recover
 
-### Slices
+#### Slices
 * https://blog.golang.org/slices-intro
 
-### Go Playground Overview
+#### Go Playground Overview
 * https://blog.golang.org/playground
 
-### Unit Testing
+#### Unit Testing
 * https://blog.alexellis.io/golang-writing-unit-tests
 
-### Mock HTTP requests
+#### Mock HTTP requests
 * https://www.thegreatcodeadventure.com/mocking-http-requests-in-golang
 
 ### Packages
