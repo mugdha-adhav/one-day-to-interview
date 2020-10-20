@@ -8,15 +8,23 @@
 
 ### Blogs
 
-**[ Syntax ] :** https://blog.golang.org/declaration-syntax
+#### Syntax
+* https://blog.golang.org/declaration-syntax
 
-**[ Defer ] :** https://blog.golang.org/defer-panic-and-recover
+### Defer
+* https://blog.golang.org/defer-panic-and-recover
 
-**[ slices ] :** https://blog.golang.org/slices-intro
+### Slices
+* https://blog.golang.org/slices-intro
 
-**[ Go Playgroud Overview ] :** https://blog.golang.org/playground
+### Go Playground Overview
+* https://blog.golang.org/playground
 
-**[ Unit Testing ] :** https://blog.alexellis.io/golang-writing-unit-tests
+### Unit Testing
+* https://blog.alexellis.io/golang-writing-unit-tests
+
+### Mock HTTP requests
+* https://www.thegreatcodeadventure.com/mocking-http-requests-in-golang
 
 ### Packages
 
